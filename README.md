@@ -31,7 +31,7 @@ This module has no external module dependencies.
 
 ### Prerequisites
 #### IAM Permissions
-Please ensure the below IAM permissions are in place to create this GCS bucket.
+Please ensure the below IAM permissions are in place to create this google folder.
 
 ```
 roles/resourcemanager.folderCreator
