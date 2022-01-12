@@ -4,6 +4,6 @@ variable "folder_name" {
 }
 
 variable "parent_resource_name" {
-  description = "the resource name of the parent folder or organization"
+  description = "The resource name of the parent Folder or Organization. Must be of the form folders/{folder_id} or organizations/{org_id}."
   type        = string
 }
