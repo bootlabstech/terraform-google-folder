@@ -1,3 +1,3 @@
 output "id" {
-    value = google_folder.folder.name
+  value = google_folder.folder.name
 }
